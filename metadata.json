@@ -1,0 +1,6 @@
+{
+  "name": "AgriSupply - Agricultural Solutions & Crop Protection",
+  "description": "Supplying certified fertilizers, agro-chemicals, crop protection products, seeds, and agronomic guidance for commercial farms and growers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
